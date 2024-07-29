@@ -39,6 +39,6 @@
     "prettier": "^2.7.1",
     "rollup": "^2.79.1",
     "rollup-plugin-babel": "^4.4.0",
-    "webdriverio": "^7.25.1"
+    "webdriverio": "^7.36.0"
   }
 }
