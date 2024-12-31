@@ -24,7 +24,7 @@
   "author": "Martin Olsson <martin@minimum.se> (https://mo.github.io)",
   "license": "MIT",
   "devDependencies": {
-    "@babel/cli": "^7.24.7",
+    "@babel/cli": "^7.26.4",
     "@babel/core": "^7.24.7",
     "@babel/plugin-transform-member-expression-literals": "^7.24.7",
     "@babel/preset-env": "^7.24.7",
